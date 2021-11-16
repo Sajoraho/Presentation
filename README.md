@@ -8,7 +8,7 @@
 
 **About Me:**
 
-- I’m currently learning __Vue__.
+- I’m currently learning __Vue__, __Flask__
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - How to reach me: __sajoraho@gmail.com__
@@ -21,16 +21,20 @@
 <p>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+   <br />
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-   <br />
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+   <br />
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-   <br />
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+   <br />
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
